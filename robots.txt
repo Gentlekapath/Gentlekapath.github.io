@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gentlekapath.github.io/sitemap.xml
